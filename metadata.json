@@ -1,0 +1,6 @@
+{
+  "name": "Roast Me",
+  "description": "A simple and funny meme-style roasting app using custom offline burns or Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
